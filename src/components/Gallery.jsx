@@ -1,22 +1,72 @@
 import React, { useState } from "react";
 
 // Import images (replace with your actual image filenames)
-import img1 from "../assets/images/img (1).jpeg";
-import img2 from "../assets/images/img (2).jpeg";
-import img3 from "../assets/images/img (3).jpeg";
+import img1 from "../assets/images/img (36).jpeg";
+import img2 from "../assets/images/img (58).jpeg";
+import img3 from "../assets/images/img (39).jpeg";
+import img4 from "../assets/images/img (42).jpeg";
+import img5 from "../assets/images/img (41).jpeg";
+import img6 from "../assets/images/img (57).jpg";
+import img7 from "../assets/images/img (63).jpeg";
+import img8 from "../assets/images/img (17).jpeg";
+import img9 from "../assets/images/img (15).jpeg";
+import img10 from "../assets/images/img (44).jpeg";
+import img11 from "../assets/images/img (54).jpeg";
+import img12 from "../assets/images/img (12).jpeg";
+import img13 from "../assets/images/img (10).jpeg";
 
 const photos = [
 	{
 		image: img1,
-		caption: "Sunny smiles ☀️",
+		caption: "Always like spicy food 🌶️, just like you 🙂",
 	},
 	{
 		image: img2,
-		caption: "Besties forever 💖",
+		caption: "Kabhi kabhi lagta hai Annebella ise se inspired hai 👻😁",
 	},
 	{
 		image: img3,
-		caption: "Goofy times 😂",
+		caption: "Abolutely kitty cat 😸👀👀👀",
+	},
+	{
+		image: img4,
+		caption: "Mhari chori bhi chudeil se kam hai ke 🧟‍♀️",
+	},
+	{
+		image: img5,
+		caption: "Mani: Ye pagal aurat chod mereko, mar degi kya 💀",
+	},
+	{
+		image: img6,
+		caption: "Sochta hun ki wo kitne masoom the, ab to jaise kuch hua nhi ki kaatne ko daudte hain 😪😓",
+	},
+	{
+		image: img7,
+		caption: "BTW, Muze Rasgulla bhi pasand hai. You know right? 🙂",
+	},
+	{
+		image: img8,
+		caption: "Missing that 35KG cry baby 😭",
+	},
+	{
+		image: img9,
+		caption: "Looking at favourite thing ha? 😁",
+	},
+	{
+		image: img10,
+		caption: "Mani: Kab picha chodegi ye aurat😂",
+	},
+	{
+		image: img11,
+		caption: "Kaliyug 😓",
+	},
+	{
+		image: img12,
+		caption: "Kasle ishare aahet he 👀",
+	},
+	{
+		image: img13,
+		caption: "Man toh bahot karta hai ye karne ka, lekin kuch kar bhi toh nhi sakte 😑",
 	},
 ];
 
@@ -57,9 +107,9 @@ const Gallery = ({ onBack, onNext }) => {
 				}
 				.gallery-img {
 					width: 100%;
-					border-radius: 1rem;
-					object-fit: cover;
-					max-height: 260px;
+					border-radius: 16px;
+					object-fit: contain;
+					max-height: 320px;
 					transition: filter 0.4s;
 					cursor: pointer;
 				}

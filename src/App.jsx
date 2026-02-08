@@ -181,15 +181,17 @@ import Ending from "./components/Ending";
 
 // Import music files
 import song1 from "./assets/music/01 Mera Mann.mp3";
-import song2 from "./assets/music/02 Samajavaragamana.mp3";
-import song3 from "./assets/music/03 Mere Liye Tum Kaafi Ho.mp3";
-import song4 from "./assets/music/04 INKEM INKEM INKEM KAVALE.mp3";
+import song2 from "./assets/music/02 Kadhi Tu.mp3";
+import song6 from "./assets/music/03 Samajavaragamana.mp3";
+import song3 from "./assets/music/04 Hosanna.mp3";
+import song4 from "./assets/music/05 Inkem Inkem Inkem Kaavaale.mp3";
+import song5 from "./assets/music/06 Ranjha.mp3";
 
 function App() {
   const [currentScreen, setCurrentScreen] = useState("welcome");
   const [musicStarted, setMusicStarted] = useState(false);
 
-  const playlist = [song1, song2, song3, song4];
+  const playlist = [song1, song2, song3, song4, song5, song6];
 
   const audioRef = useRef(null);
   const currentTrackIndex = useRef(0);
