@@ -20,7 +20,7 @@ const Surprise = ({ onBack, onNext }) => {
 					color: #a06fa1;
 					margin-bottom: 2.2rem;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Pacifico','Comic Sans MS', 'Comic Sans', cursive, sans-serif;
 				}
 				.surprise-btn {
 					padding: 1rem 2.2rem;
@@ -84,8 +84,13 @@ const Surprise = ({ onBack, onNext }) => {
 			) : (
 				<>
 					<div className="surprise-message">
-						You are the sweetest gift in my life! 🎂💖<br />
-						Thank you for making every day magical. I hope this birthday brings you as much joy as you bring to everyone around you!
+						25th bday jaade 1 quarter complete kelas 🙂 aani life cha hard part pn tyamule khush raha ata. <br />
+						Goshtincha load nko gheu aani jevha goshtincha load ghyaycha asel tevha mala sang. Samjun tr nahi ghenar pn pravachan nkki dein 😁😂 <br />
+						(samjun pn ghein nay tr parat bhandayla yeshil 😓) <br />
+						Surprise message asa kahi nahiye bas je kartey nit kar, chote goals ✨ thev te complete kar mg bg sagla easy vatnar aani thik pn honar. Kadhi kadhi goshtina vel lagto tevda vel de aani mg majja bg. <br/>
+						Bas message jast motha nahi karaycha aani love letter pn nahi lihaych moth fakt kalji ghe, exercise 🏋️‍♀️ kar pot vadat chally jaade 🤰 te kmi kar aani healthy khana kha, stress gheu nko aani malahi deu nko. Khush raha fakt. <br />
+						Once again, Wishing you the happiest of birthdays, Mau!❣️❣️😘🥰🥳🥳 <br/>
+						I love you more than you can imagine.❣️❣️
 					</div>
 					<div className="nav-btns">
 						<button className="back-btn" onClick={onBack}>Back</button>

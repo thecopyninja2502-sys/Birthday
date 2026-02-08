@@ -37,10 +37,12 @@ const Ending = ({ onBack }) => {
 				}
 			`}</style>
 			<div className="ending-message">
-				Thank you for sharing these special moments with me.<br />
-				You are loved more than words can say. 💖<br />
-                I hope this made you smile, even a little. <br/>
-				Happy Birthday, Mau!
+				Evdach hot. 🥲<br />
+				Mahitiy jara jastch simple zali site, purn mazya understanding ne banvli aahe, tyamule jara samjun ghe 🙂😅<br />
+                I hope thodi majja aali asel (●'◡'●) <br />
+				(nahi aali bolshil tr maar khashil, khup mehntine banvly he sagla react js shikun🥲) <br/>
+				Chalo zala The END!! <br />
+				Bye Bye 👋👋 love you 😘
 			</div>
 			<button className="ending-back-btn" onClick={onBack}>Back</button>
 		</div>
