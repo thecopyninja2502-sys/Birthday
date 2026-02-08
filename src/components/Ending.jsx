@@ -37,7 +37,7 @@ const Ending = ({ onBack }) => {
 				}
 			`}</style>
 			<div className="ending-message">
-				Evdach hot. 🥲<br />
+				Evdach hot. 🥲 Jrr BGM sampli nastil tr khali next button aahe. Special tuzyasathi aahet☺️ <br />
 				Mahitiy jara jastch simple zali site, purn mazya understanding ne banvli aahe, tyamule jara samjun ghe 🙂😅<br />
                 I hope thodi majja aali asel (●'◡'●) <br />
 				(nahi aali bolshil tr maar khashil, khup mehntine banvly he sagla react js shikun🥲) <br/>
