@@ -25,11 +25,11 @@ import img20 from "../assets/images/img (3).jpeg";
 const memories = [
 	{
 		image: img1,
-		caption: "A cute and precious flower of my life 🌸",
+		caption: "A cute and precious flower of my life 🌸❣️",
 	},
 	{
 		image: img2,
-		caption: "Swapnsundari 🥰",
+		caption: "Swapnsundari 🥰❣️",
 	},
 	{
 		image: img3,
@@ -41,11 +41,11 @@ const memories = [
 	},
 	{
 		image: img5,
-		caption: "Hey there, Mommy. 👋😈🥵🫠🫠",
+		caption: "Hey there, Mommy. 👋🥵🫠🫠",
 	},
 	{
 		image: img6,
-		caption: "My sunshine😊",
+		caption: "My sunshine😊❣️",
 	},
 	{
 		image: img7,
@@ -65,7 +65,7 @@ const memories = [
 	},
 	{
 		image: img11,
-		caption: "Just waiting to see you in this color with me ☺️",
+		caption: "Just waiting to see you in this color with me ☺️💛",
 	},
 	{
 		image: img12,
@@ -89,7 +89,7 @@ const memories = [
 	},
 	{
 		image: img17,
-		caption: "A Foolish fool 🌻 who is always ready to do anything for me and loves me unconditionally 🥹",
+		caption: "A Foolish ful 🌻 who is always ready to do anything for me and loves me unconditionally 🥹",
 	},
 	{
 		image: img18,
@@ -97,7 +97,7 @@ const memories = [
 	},
 	{
 		image: img19,
-		caption: "Recently we have talked about this 😁",
+		caption: "We talked about this recently 😁",
 	},
 	{
 		image: img20,

@@ -53,10 +53,10 @@ const Welcome = ({ onStart }) => {
 					50% { transform: translateY(-12px); }
 				}
 			`}</style>
-			<h1 className="welcome-heading">Happy Birthday Mau❣️😘🥳</h1>
+			<h1 className="welcome-heading"> ❣️❣️ Happy Birthday Mau ❣️❣️😘🥳</h1>
 			<div className="welcome-subtext">
-				Wishing you a magical day filled with love, laughter, and sweet surprises!😁 <br/>
-				You’re the bug🐞 in my life—the only one allowed to crash my software🙃 and hardware🙂
+				 Wishing you a magical day filled with love, laughter, and sweet surprises!😁 <br/>
+				 You’re the bug🐞 in my life—the only one allowed to crash my software🙃 and hardware🙂
 			</div>
 			<button className="welcome-btn" onClick={onStart}>Start the Surprise 💕</button>
 		</div>

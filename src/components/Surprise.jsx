@@ -84,13 +84,13 @@ const Surprise = ({ onBack, onNext }) => {
 			) : (
 				<>
 					<div className="surprise-message">
-						25th bday jaade 1 quarter complete kelas 🙂 aani life cha hard part pn tyamule khush raha ata. <br />
-						Goshtincha load nko gheu aani jevha goshtincha load ghyaycha asel tevha mala sang. Samjun tr nahi ghenar pn pravachan nkki dein 😁😂 <br />
-						(samjun pn ghein nay tr parat bhandayla yeshil 😓) <br />
-						Surprise message asa kahi nahiye bas je kartey nit kar, chote goals ✨ thev te complete kar mg bg sagla easy vatnar aani thik pn honar. Kadhi kadhi goshtina vel lagto tevda vel de aani mg majja bg. <br/>
-						Bas message jast motha nahi karaycha aani love letter pn nahi lihaych moth fakt kalji ghe, exercise 🏋️‍♀️ kar pot vadat chally jaade 🤰 te kmi kar aani healthy khana kha, stress gheu nko aani malahi deu nko. Khush raha fakt. <br />
-						Once again, Wishing you the happiest of birthdays, Mau!❣️❣️😘🥰🥳🥳 <br/>
-						I love you more than you can imagine.❣️❣️
+						 25th bday jaade 1 quarter complete kelas 🙂 aani life cha hard part pn tyamule khush raha ata. <br />
+						 Goshtincha load nko gheu aani jevha goshtincha load ghyaycha asel tevha mala sang. Samjun tr nahi ghenar pn pravachan nkki dein 😁😂 <br />
+						 (samjun pn ghein nay tr parat bhandayla yeshil 😓) <br />
+						 Surprise message asa kahi nahiye bas je kartey nit kar, chote goals ✨ thev te complete kar mg bg sagla easy vatnar aani thik pn honar. Kadhi kadhi goshtina vel lagto tevda vel de aani mg majja bg. <br/>
+						 Bas message jast motha nahi karaycha aani love letter pn nahi lihaych moth fakt kalji ghe, exercise 🏋️‍♀️ kar pot vadat chally jaade 🤰 te kmi kar aani healthy khana kha, stress gheu nko aani malahi deu nko. Khush raha fakt. <br />
+						 Once again, Wishing you the happiest of birthdays, Mau!❣️❣️😘🥰🥳🥳 <br/>
+						 I love you more than you can imagine.❣️❣️
 					</div>
 					<div className="nav-btns">
 						<button className="back-btn" onClick={onBack}>Back</button>

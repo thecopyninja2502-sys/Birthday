@@ -37,12 +37,12 @@ const Ending = ({ onBack }) => {
 				}
 			`}</style>
 			<div className="ending-message">
-				Evdach hot. 🥲 Jrr BGM sampli nastil tr khali next button aahe. Special tuzyasathi aahet☺️ <br />
-				Mahitiy jara jastch simple zali site, purn mazya understanding ne banvli aahe, tyamule jara samjun ghe 🙂😅<br />
-                I hope thodi majja aali asel (●'◡'●) <br />
-				(nahi aali bolshil tr maar khashil, khup mehntine banvly he sagla react js shikun🥲) <br/>
-				Chalo zala The END!! <br />
-				Bye Bye 👋👋 love you 😘
+				 Evdach hot. 🥲 Jrr BGM sampli nastil tr khali next button aahe. Special tuzyasathi aahet☺️❣️ <br />
+				 Mahitiy jara jastch simple zali site, purn mazya understanding ne banvli aahe, tyamule jara samjun ghe 🙂😅<br />
+                 I hope thodi majja aali asel (●'◡'●) <br />
+				 (nahi aali bolshil tr maar khashil, khup mehntine banvly he sagla react js shikun🥲) <br/>
+				 Chalo zala The END!! <br />
+				 Bye Bye 👋👋 love you 😘❣️
 			</div>
 			<button className="ending-back-btn" onClick={onBack}>Back</button>
 		</div>
