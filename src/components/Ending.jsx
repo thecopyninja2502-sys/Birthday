@@ -18,7 +18,7 @@ const Ending = ({ onBack }) => {
 					color: #a06fa1;
 					margin-bottom: 2.2rem;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
 				}
 				.ending-back-btn {
 					padding: 0.5rem 1.2rem;

@@ -121,14 +121,14 @@ const Gallery = ({ onBack, onNext }) => {
 					font-size: 1.1rem;
 					color: #a06fa1;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
 				}
 				.gallery-caption {
 					margin-top: 0.7rem;
 					font-size: 1.1rem;
 					color: #6a7ba2;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
 				}
 				.gallery-nav-btns {
 					display: flex;

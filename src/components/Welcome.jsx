@@ -26,7 +26,7 @@ const Welcome = ({ onStart }) => {
 					color: #6a7ba2;
 					margin-bottom: 2.5rem;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Comic Sans MS', 'Comic Sans';
 				}
 				.welcome-btn {
 					padding: 1rem 2.2rem;

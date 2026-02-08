@@ -141,7 +141,7 @@ const Memories = ({ onNext }) => {
 					font-size: 1.05rem;
 					color: #a06fa1;
 					text-align: center;
-					font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+					font-family: 'Comic Sans MS', 'Comic Sans', sans-serif;
 				}
 				.memories-next-btn {
 					margin: 1.5rem auto 0 auto;
