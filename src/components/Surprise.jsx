@@ -20,7 +20,7 @@ const Surprise = ({ onBack, onNext }) => {
 					color: #a06fa1;
 					margin-bottom: 2.2rem;
 					text-align: center;
-					font-family: 'Pacifico','Comic Sans MS', 'Comic Sans';
+					font-family: 'Comic Sans MS', 'Comic Sans';
 				}
 				.surprise-btn {
 					padding: 1rem 2.2rem;
